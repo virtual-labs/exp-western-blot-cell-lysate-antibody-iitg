@@ -1,13 +1,63 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+	<!-- Add CSS at the head of HTML file -->    
+	<link rel="stylesheet" href="./css/vlabSimulation.css">
+	
 </head>
 <body>
-		<!-- Your code goes here-->
+	<div class="container">                        
+		<div class="performingRow">
+			<div id="animation_div"></div>                        
+			<div id="process_div">
+				<div id="select_step_div">
+					<select id="stepSelect">
+						<option value="" selected>Choose Step</option>
+						<option value="0">Step 1</option>
+						<option value="19">Step 2</option>
+						<option value="30">Step 3</option>
+						<option value="41">Step 4</option>
+						<option value="49">Step 5</option>
+						<option value="57">Step 6</option>
+					</select>
+				</div> <!-- ends select_step_div -->
+				<div id="title_div"></div>                                
+				<div id="procedure_div">
+				</div> <!-- ends procedure_div -->
+				<div id="buttons_div">
+					<button id="prev-button">Previous</button>                                                        
+					<button id="next-end-button">Next</button>                                            
+				</div>
+			</div> <!-- ends process_div -->
+			<div id="tooltip-container" style="display: none;">
+				<button id="close-tooltip" class="close-button">X</button>
+				<div class="tooltip-row">
+					<div class="tooltip-column"><img id="tooltip-image" alt="Icon"></div>
+					<div class="tooltip-column"><span id="tooltip-text"></span></div>
+				</div>
+			</div>  <!-- ends tooltip-container -->
+		</div>  <!-- ends performingRow -->
+		<div class="controlPanel">                            
+			<button id="extra-button">Extra</button>
+			<div id="icon_container" style="display: none;">
+				<img id="button_flask" src="./images/button_flask.png" class="tooltip-icon" data-tooltip="Flask">
+				<img id="button_pbs" src="./images/button_PBS.png" class="tooltip-icon" data-tooltip="PBS">
+				<img id="button_petri_dish" src="./images/button_petri_dish.png" class="tooltip-icon" data-tooltip="Petri Dish">
+				<img id="button_pipette" src="./images/button_pipette.png" class="tooltip-icon" data-tooltip="Pipette">
+				<img id="button_cell_scraper" src="./images/button_scraper.png" class="tooltip-icon" data-tooltip="Scraper">
+				<img id="button_vial" src="./images/button_vial.png" class="tooltip-icon" data-tooltip="Vial">
+				<button id="close-icon-container">X</button>
+			</div> <!-- ends icon_container -->                             
+		</div>  <!-- ends controlPanel -->
+	</div>  <!-- ends container -->
 
 	<!-- Add JS at the bottom of HTML file --> 
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie.min.js" crossorigin="anonymous"></script>
         <script src="./js/main.js"></script>
+		<script type="module" src="./js/title.js"></script>
+		<script type="module" src="./js/animation.js"></script>
+		<script type="module" src="./js/procedure.js"></script>    
+		<script type="module" src="./js/tooltip.js"></script>
+		<script type="module" src="./js/vlabSimulation.js"></script>
 </body>
 </html>

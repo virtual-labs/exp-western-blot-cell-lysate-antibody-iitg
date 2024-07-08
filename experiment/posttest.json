@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "After detection, how are protein bands typically quantified in Western blotting??",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "UV absorption",
+        "b": "Chemiluminescence",
+        "c": "Densitometry measurements",
+        "d": "Mass spectrometry"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the primary antibody is an unmodified mouse monoclonal antibody, then the secondary antibody must be ",
+      "answers": {
+        "a": "anti-mouse IgG secondary antibody raised in horse",
+        "b": "anti-chicken IgG secondary antibody raised in mouse",
+        "c": "anti-goat IgG secondary antibody raised in horse",
+        "d": "anti-horse IgG secondary antibody raised in mouse"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is NOT an application of Western Blotting?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Detection of post-translational modifications",
+        "b": "Protein quantification",
+        "c": "DNA sequencing",
+        "d": "Protein expression analysis"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
