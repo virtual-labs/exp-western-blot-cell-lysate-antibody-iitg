@@ -1,1 +1,1 @@
-### Link your references in here
+1. Mahmood T, Yang P-CJNAjoms. Western blot: technique, theory, and trouble shooting. 2012;4(9):429 .

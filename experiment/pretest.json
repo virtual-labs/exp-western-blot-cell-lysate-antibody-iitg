@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary role of blocking agents in Western blotting?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To enhance the binding of primary antibodies",
+        "b": "To reduce nonspecific binding of antibodies",
+        "c": "To increase the sensitivity of detection",
+        "d": "To stabilize the proteins on the membrane"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,29 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In Western blotting, which staining method is commonly used to visualize total protein on the membrane after transfer?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Coomassie Blue staining",
+        "b": "Silver staining",
+        "c": "Ponceau S staining",
+        "d": "Ethidium bromide staining"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main difference between SDS and Native Page?",
+      "answers": {
+        "a": "Proteins are denatured for SDS PAGE analysis, but not for NATIVE PAGE",
+        "b": "Proteins are detected using antibodies for SDS PAGE, an oligomers for NATIVE Page",
+        "c": "NATIVE PAGE involves stacking gel, while SDS PAGE does not",
+        "d": "SDS PAGE separates proteins based on size and charge, while NATIVE PAGE separates proteins based only on size"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
