@@ -1,6 +1,7 @@
 ### Procedure
 <br>
-**A) SAMPLE PREPARATION** <br>
+
+##### A) SAMPLE PREPARATION <br>
 <br>
 - Discard the supernatant from the 35mm2 dish and pipette cold 1X PBS over the cells dropwise.<br>
 - Discard the PBS and add 400 µl of PBS again and scrape out the cells.<br>
@@ -9,7 +10,8 @@
 - Boil the above mixture at 95 °C for 10-15 minutes.<br>
 - Centrifuge the mixture at 12000g for 5 minutes.<br>
 <br>
-**B) GEL PREPARATION** <br>
+
+##### B) GEL PREPARATION <br>
 <br>
 - Set the casting frames on the casting stand and clamp the glass plates carefully.<br>
 - Add water into the space between the glass plates to ensure there is no leakage.<br>
@@ -21,21 +23,24 @@
 - In the meantime, prepare a stacking gel solution (6%) in a separate tube.<br>
 - Add the stacking gel solution until overflow and immediately insert the comb into the stacking gel, making sure no air bubbles are trapped in the gel. Allow the gel to solidify.<br>
 <br>
-**C) SDS PAGE** <br>
+
+##### C) SDS PAGE <br>
 <br>
 - Remove the gel cassette from the casting frame and clamp it with a dummy plate/ buffer dam to the running module.<br>
 - Pour the 1X Tris-Glycine running buffer into the running module first, and then into the rest of the tank.<br>
 - Carefully remove the comb from the wells and load different volumes of sample A and B into the wells along with a molecular weight marker.<br>
 - Run the electrophoresis at low voltage ~70V till the dye front reaches the resolving gel, then increase the voltage to 100-120V and run it till the dye front leaves the gel.<br>
 <br>
-**D) TRANSFERRING PROTEINS FROM GEL TO MEMBRANE** <br>
+
+##### D) TRANSFERRING PROTEINS FROM GEL TO MEMBRANE <br>
 <br>
 - Soak the blotting sheets in transfer buffer and place them on the base of the transfer unit.<br>
 - Place a 0.45μ nitrocellulose membrane (NCM) pre soaked in transfer buffer, on the blotting sheets.<br>
 - Carefully align the gel over the NCM and cover the gel with two soaking sheets. Pour the remaining transfer buffer and roll with the roller to ensure proper stacking.<br>
 - Run the blotting for 30 minutes at 19 V and 0.5A.<br>
 <br>
-**E) BLOCKING AND ANTIBODIES INCUBATION** <br>
+
+##### E) BLOCKING AND ANTIBODIES INCUBATION <br>
 <br>
 - Briefly rinse the blot with 1X Tris Buffered- Saline with Tween (TBST) and stain it with Ponceau S solution to check the transfer of proteins from the gel to the membrane.<br>
 - Rinse off the Ponceau S stain with three washes of TBST.<br>
