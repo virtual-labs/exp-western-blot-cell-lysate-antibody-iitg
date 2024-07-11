@@ -53,4 +53,6 @@
 - Wash the membrane three times with TBST, about 5 minutes each time.<br>
 - Incubate the membrane with the recommended dilution of conjugated secondary antibody (1:10000, 2% BSA in TBS/TBST) at room temperature for 1-2 hours with gentle rocking.<br>
 - Wash the membrane three times with TBST, about 5 minutes each time and develop the blot with ECL reagent in a dark room.<br>
-<img src="./images/image5.png" alt="Image" height="200"><img src="./images/image6.png" alt="Image" height="200"><br>
+<img src="./images/image5.png" alt="Image" height=300">
+<br>
+<img src="./images/image6.png" alt="Image" height="600"><br>

@@ -1,2 +1,2 @@
-### Aim of the experiment
+### Aim
 Studying the Western Blot Analysis of the Cell Lysate using Antibody. 
