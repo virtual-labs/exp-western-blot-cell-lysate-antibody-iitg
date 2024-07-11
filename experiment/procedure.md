@@ -37,12 +37,14 @@
 - Soak the blotting sheets in transfer buffer and place them on the base of the transfer unit.<br>
 - Place a 0.45μ nitrocellulose membrane (NCM) pre soaked in transfer buffer, on the blotting sheets.<br>
 - Carefully align the gel over the NCM and cover the gel with two soaking sheets. Pour the remaining transfer buffer and roll with the roller to ensure proper stacking.<br>
+<img src="./images/image2.png" height="200" alt="Western blot Image"><br>
 - Run the blotting for 30 minutes at 19 V and 0.5A.<br>
 <br>
 
 ##### E) BLOCKING AND ANTIBODIES INCUBATION <br>
 <br>
 - Briefly rinse the blot with 1X Tris Buffered- Saline with Tween (TBST) and stain it with Ponceau S solution to check the transfer of proteins from the gel to the membrane.<br>
+<img src="./images/image3.png" alt="Image" height="200"><img src="./images/image4.jpg" alt="Image" height="200"><br>
 - Rinse off the Ponceau S stain with three washes of TBST.<br>
 - Block the membrane using a blocking buffer for 2 hours at room temperature.<br>
 - Wash the membrane with TBST 2-3 times at a fast speed on a rocker.<br>
@@ -51,3 +53,6 @@
 - Wash the membrane three times with TBST, about 5 minutes each time.<br>
 - Incubate the membrane with the recommended dilution of conjugated secondary antibody (1:10000, 2% BSA in TBS/TBST) at room temperature for 1-2 hours with gentle rocking.<br>
 - Wash the membrane three times with TBST, about 5 minutes each time and develop the blot with ECL reagent in a dark room.<br>
+<img src="./images/image5.png" alt="Image" height=300">
+<br>
+<img src="./images/image6.png" alt="Image" height="600"><br>
