@@ -37,7 +37,7 @@
 - Soak the blotting sheets in transfer buffer and place them on the base of the transfer unit.<br>
 - Place a 0.45μ nitrocellulose membrane (NCM) pre soaked in transfer buffer, on the blotting sheets.<br>
 - Carefully align the gel over the NCM and cover the gel with two soaking sheets. Pour the remaining transfer buffer and roll with the roller to ensure proper stacking.<br>
-<img src="./images/image2.png" height="200" alt="Western blot Image"><br>
+<img src="./images/image2.png" height="350" alt="Western blot Image"><br>
 - Run the blotting for 30 minutes at 19 V and 0.5A.<br>
 <br>
 
