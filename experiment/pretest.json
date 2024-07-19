@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the primary role of blocking agents in Western blotting?",
+      "question": "1. What is the primary role of blocking agents in Western blotting?",
       "answers": {
         "a": "To enhance the binding of primary antibodies",
         "b": "To reduce nonspecific binding of antibodies",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In Western blotting, which staining method is commonly used to visualize total protein on the membrane after transfer?",
+      "question": "2. In Western blotting, which staining method is commonly used to visualize total protein on the membrane after transfer?",
       "answers": {
         "a": "Coomassie Blue staining",
         "b": "Silver staining",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the main difference between SDS and Native Page?",
+      "question": "3. What is the main difference between SDS and Native Page?",
       "answers": {
         "a": "Proteins are denatured for SDS PAGE analysis, but not for NATIVE PAGE",
         "b": "Proteins are detected using antibodies for SDS PAGE, an oligomers for NATIVE Page",
@@ -50,6 +50,125 @@
         "d": ""
       },
       "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the primary purpose of Western blotting?",
+      "answers": {
+        "a": "To measure the concentration of DNA in a sample",
+        "b": "To detect specific proteins in a sample",
+        "c": "To determine the pH level of a solution",
+        "d": "To sequence RNA molecules"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following is NOT a step in the Western blotting process?",
+      "answers": {
+        "a": "Gel electrophoresis",
+        "b": "Protein transfer to a membrane",
+        "c": "DNA amplification",
+        "d": "Antibody incubation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What type of gel is commonly used in Western blotting for protein separation?",
+      "answers": {
+        "a": "Agarose gel",
+        "b": "Polyacrylamide gel",
+        "c": "Starch gel",
+        "d": "Cellulose acetate gel"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which type of gel electrophoresis is typically used to separate proteins by their size in Western blotting?",
+      "answers": {
+        "a": "Native PAGE",
+        "b": "SDS-PAGE",
+        "c": "Isoelectric focusing",
+        "d": "Agarose gel electrophoresis"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. What is the primary function of the stacking gel in SDS-PAGE?",
+      "answers": {
+        "a": "To separate proteins based on their size",
+        "b": "To concentrate and align proteins before they enter the resolving gel",
+        "c": "To transfer proteins to the membrane",
+        "d": "To denature the proteins"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the typical pH of the stacking gel used in SDS-PAGE?",
+      "answers": {
+        "a": "pH 6.8",
+        "b": "pH 8.8",
+        "c": "pH 7.4",
+        "d": "pH 9.0"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is the typical pH of the resolving gel in SDS-PAGE?",
+      "answers": {
+        "a": "pH 6.8",
+        "b": "pH 8.8",
+        "c": "pH 7.4",
+        "d": "pH 9.0"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
