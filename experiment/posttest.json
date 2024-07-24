@@ -153,6 +153,23 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is the role of the secondary antibody in Western blotting?",
+      "answers": {
+        "a": "To bind directly to the target protein",
+        "b": "To recognize and bind to the primary antibody",
+        "c": "To transfer proteins to the membrane",
+        "d": "To stain the proteins for visualization"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
