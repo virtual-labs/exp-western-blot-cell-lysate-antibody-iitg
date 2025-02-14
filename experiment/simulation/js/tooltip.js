@@ -24,6 +24,10 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 export var tooltips = [
     {
+        id: 'button_composition',
+        text: ''
+    },
+    {
         id: 'button_flask',
         text: 'Flasks can be used for making solutions or for holding, containing, collecting, or sometimes volumetrically measuring chemicals, samples, solutions, etc. for chemical reactions or other processes such as mixing, heating, cooling, dissolving, precipitation, boiling (as in distillation), or analysis.'
     },

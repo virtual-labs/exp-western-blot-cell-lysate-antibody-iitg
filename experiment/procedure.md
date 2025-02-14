@@ -65,7 +65,9 @@
 <br><div style="text-align: center;"><img src="./images/image5.png" alt="Image" height="300"></div>
 <br>
 <br><div style="text-align: center;"><img src="./images/image6.png" alt="Image" height="600"></div>
-<br><br>
+<br>
+<br><div style="text-align: center;"><img src="./images/image7.png" alt="Image" height="300"></div>
+<br>
 <div style="display: flex; justify-content: center; align-items: center;">
   <figure class="video_container" style="width: 600px; height: 350px;">
     <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?si=gHs0gJTXYf4T0vBT&amp;list=PLTkVi3dAX_-9uQTFRpeBPwlcE3dA2h5-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
