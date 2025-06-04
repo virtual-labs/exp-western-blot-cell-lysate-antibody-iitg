@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. After detection, how are protein bands typically quantified in Western blotting??",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "UV absorption",
+        "b": "Chemiluminescence",
+        "c": "Densitometry measurements",
+        "d": "Mass spectrometry"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. If the primary antibody is an unmodified mouse monoclonal antibody, then the secondary antibody must be ",
+      "answers": {
+        "a": "anti-mouse IgG secondary antibody raised in horse",
+        "b": "anti-chicken IgG secondary antibody raised in mouse",
+        "c": "anti-goat IgG secondary antibody raised in horse",
+        "d": "anti-horse IgG secondary antibody raised in mouse"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Which of the following is NOT an application of Western Blotting?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Detection of post-translational modifications",
+        "b": "Protein quantification",
+        "c": "DNA sequencing",
+        "d": "Protein expression analysis"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The primary antibody in a Western blot is used to",
+      "answers": {
+        "a": "Detect the secondary antibody",
+        "b": "Bind specifically to the target protein",
+        "c": "Transfer proteins from the gel to the membrane",
+        "d": "Visualize the separated proteins on the gel"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the purpose of the transfer buffer in Western blotting?",
+      "answers": {
+        "a": "To separate proteins in the gel",
+        "b": "To facilitate the transfer of proteins from the gel to the membrane",
+        "c": "To block non-specific binding sites",
+        "d": "To enhance the antibody-antigen interaction"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which washing buffer is commonly used in Western blotting to remove unbound antibodies?",
+      "answers": {
+        "a": "TBS-T (Tris-buffered saline with Tween 20)",
+        "b": "PBS (Phosphate-buffered saline)",
+        "c": "SDS-PAGE running buffer",
+        "d": "Formaldehyde solution"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which step is essential for ensuring proteins are transferred efficiently from the gel to the membrane in Western blotting?",
+      "answers": {
+        "a": "Using a high-voltage power supply",
+        "b": "Properly equilibrating the gel and membrane in transfer buffer",
+        "c": "Staining the gel with Coomassie blue",
+        "d": "Incubating the membrane overnight at room temperature"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Why is it important to run a molecular weight marker alongside the samples in Western blotting?",
+      "answers": {
+        "a": "To visualize the target protein",
+        "b": "To determine the size of the separated proteins",
+        "c": "To block non-specific binding",
+        "d": "To increase the sensitivity of the assay"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the primary purpose of the blotting step in Western blotting?",
+      "answers": {
+        "a": "To separate proteins based on their size",
+        "b": "To transfer proteins from the gel to a membrane",
+        "c": "To denature proteins",
+        "d": "To detect specific DNA sequences"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is the role of the secondary antibody in Western blotting?",
+      "answers": {
+        "a": "To bind directly to the target protein",
+        "b": "To recognize and bind to the primary antibody",
+        "c": "To transfer proteins to the membrane",
+        "d": "To stain the proteins for visualization"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
